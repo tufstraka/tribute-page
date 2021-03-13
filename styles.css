@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(218, 209, 147);
+}
+#tribute-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#titleComponent{
+    padding: 15px;
+    border-radius: 8px;
+    background-color: cadetblue;
+}
+#img-div{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     
+        
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 100%;
+  }
